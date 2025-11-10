@@ -8,7 +8,7 @@ The app will let you create an account and log in, then request a ride by clicki
 ## Cost
 All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  Outside of the Free Tier, there may be small charges associated with building the app (less than $1 USD), but charges will continue to incur if you leave the app running.  Please see the end of the YouTube video for instructions on how to delete all resources used in the video.
 
-## System Architecture
+## Application Architecture
 
 ![App Architecture Diagram](Lets-Take-a-RIde-App-Architecture.png)
 
